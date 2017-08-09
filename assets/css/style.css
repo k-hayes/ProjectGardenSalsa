@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /* Style the tab */
 div.tab {
     overflow: hidden;
@@ -33,3 +34,12 @@ div.tab button.active {
     border: 1px solid #ccc;
     border-top: none;
 }
+=======
+.search-bar {
+  width: 100%;
+  height: 500px;
+  margin: auto;
+  text-align: center;
+  
+}
+>>>>>>> 855a83f0479f0556476a25d89edbd0b81b0ee64d
